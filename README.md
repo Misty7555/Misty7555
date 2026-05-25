@@ -54,44 +54,67 @@
 </div>
 
 ---
-
 ## 🚀 Key Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
+
+## 🌐 Cisco Networking
+
+Enterprise-level Cisco Packet Tracer Labs
+
+### Technologies
+`OSPF` `EIGRP` `RIP`
+`VLAN` `ACL` `NAT`
+`PAT` `DHCP` `VLSM`
+
+<br>
+
 <a href="https://github.com/Misty7555/Cisco-Networking">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=Cisco-Networking&theme=github_dark&hide_border=true">
+<img src="https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
+
+## 🧠 Heart Disease Prediction
+
+Machine Learning prediction system using clinical datasets.
+
+### Technologies
+`Python`
+`Pandas`
+`NumPy`
+`Machine Learning`
+
+<br>
+
 <a href="https://github.com/Misty7555/HEART_DISEASE_PREDICTION">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=HEART_DISEASE_PREDICTION&theme=github_dark&hide_border=true">
+<img src="https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 </td>
 
-</tr>
+<td width="33%" align="center">
 
-<tr>
+## 📈 Credit Risk Analysis
 
-<td width="50%">
+Probability of Default model on financial datasets.
+
+### Technologies
+`Python`
+`SQL`
+`Analytics`
+`Risk Modeling`
+
+<br>
+
 <a href="https://github.com/Misty7555/CREDIT-RISK-PD-MODEL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=CREDIT-RISK-PD-MODEL&theme=github_dark&hide_border=true">
+<img src="https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</td>
-
-<td width="50%">
-
-### 🌐 Featured Networking Project
-
-- Cisco Packet Tracer Labs
-- OSPF, RIP & EIGRP
-- VLAN & ACL Configurations
-- NAT, PAT & DHCP
-- Subnetting & VLSM
-- Enterprise Networking Simulations
 
 </td>
 
