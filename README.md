@@ -57,30 +57,33 @@
 
 ## 🚀 Key Projects
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Misty7555/Cisco-Networking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=Cisco-Networking&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=Cisco-Networking&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/Misty7555/HEART_DISEASE_PREDICTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=HEART_DISEASE_PREDICTION&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=HEART_DISEASE_PREDICTION&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
+
+<br><br>
 
 <a href="https://github.com/Misty7555/CREDIT-RISK-PD-MODEL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=CREDIT-RISK-PD-MODEL&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=CREDIT-RISK-PD-MODEL&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 
-</p>
+</div>
+
+---
 
 ### 📊 Project Highlights
 
-* 🌐 **Cisco Networking Labs** — Enterprise-level Cisco Packet Tracer simulations including Routing, Switching, OSPF, EIGRP, ACL, NAT & WAN configurations
+- 🌐 **Cisco Networking Labs** — Enterprise-level Cisco Packet Tracer simulations including Routing, Switching, OSPF, EIGRP, ACL, NAT & WAN configurations
 
-* 🧠 **Heart Disease Prediction** — ML model to predict patient risk using clinical data
+- 🧠 **Heart Disease Prediction** — ML model to predict patient risk using clinical data
 
-* 📈 **Credit Risk Analysis** — Probability of default model on large-scale financial dataset (2.9M+ records)
-
+- 📈 **Credit Risk Analysis** — Probability of default model on large-scale financial dataset (2.9M+ records)
 ---
 
 ## 💼 Experience
