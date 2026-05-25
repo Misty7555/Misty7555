@@ -1,195 +1,115 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ===== HEADER ===== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=ADYA%20BHARDWAJ&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%7C%20Cybersecurity%20%7C%20Data%20Analytics&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Adya%20Bhardwaj&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Cisco+Networking+%7C+Cybersecurity+%7C+Cloud;Routing+%7C+Switching+%7C+Enterprise+Infrastructure;Data+Analytics+%7C+Business+Intelligence;Building+Real-World+Technical+Solutions" />
-</p>
-
----
-
-<!-- ========================= SOCIALS ========================= -->
+<h3 align="center">Networking • Data Analytics • Business Intelligence</h3>
 
 <p align="center">
-
-<a href="https://github.com/Misty7555">
-  <img src="https://img.shields.io/badge/GitHub-Misty7555-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adyabhardwaj08292b283">
-  <img src="https://img.shields.io/badge/LinkedIn-Adya%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adyabhardwaj12@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00C2FF&center=true&vCenter=true&width=700&lines=Cisco+Networking+Labs+%7C+Enterprise+Simulation;Routing+%7C+Switching+%7C+OSPF+%7C+EIGRP;Python+%7C+SQL+%7C+Power+BI;Building+Real-World+Technical+Projects" />
 </p>
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
+## 🧠 About
 
-# 🌐 About Me
-
-```yaml
-Name: Adya Bhardwaj
-Education: B.Tech CSE - KIIT University
-CGPA: 8.5
-
-Domains:
-  - Networking
-  - Cybersecurity
-  - Data Analytics
-  - Cloud Computing
-
-Currently Learning:
-  - CCNA
-  - Advanced Routing
-  - Network Security
-  - Cloud Networking
-
-Tools & Technologies:
-  - Cisco Packet Tracer
-  - Python
-  - SQL
-  - Power BI
-  - Wireshark
-  - Git & GitHub
-```
+* 🎓 B.Tech CSE @ KIIT University (CGPA: 8.5)
+* 🌐 Strong interest in **Computer Networking & Enterprise Infrastructure**
+* 📊 Specializing in **Data Analytics & Business Intelligence**
+* ⚡ Focused on building practical real-world technical projects
 
 ---
 
-<!-- ========================= SKILLS ========================= -->
-
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,bash,c,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,c,linux,bash,vscode" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-111111?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoft-excel"/>
-<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco"/>
+  <img src="https://img.shields.io/badge/PowerBI-111111?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark"/>
 </p>
 
 ---
 
-<!-- ========================= NETWORKING SECTION ========================= -->
-
-# 🌐 Networking & Cybersecurity
+## 🌐 Networking Skills
 
 <div align="center">
 
-| Skill Area | Technologies |
+| Technology | Skills |
 |---|---|
-| 🔀 Routing | RIP, OSPF, EIGRP |
-| 🌐 Switching | VLANs, Trunking |
+| 🌐 Routing | RIP, OSPF, EIGRP |
+| 🔀 Switching | VLANs, Trunking |
 | 🔒 Security | ACL, NAT, PAT |
-| 🛰️ WAN | Frame Relay |
+| 🛰️ WAN | Router-to-Router Communication |
 | 🧠 IP Management | VLSM, Subnetting |
-| 🛠️ Troubleshooting | Connectivity Analysis |
-| 📡 Simulation | Cisco Packet Tracer |
+| 🛠️ Simulation | Cisco Packet Tracer |
 
 </div>
 
 ---
 
-<!-- ========================= FEATURED PROJECTS ========================= -->
-
-# 🚀 Featured Projects
+## 🚀 Key Projects
 
 <p align="center">
 
 <a href="https://github.com/Misty7555/Cisco-Networking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=Cisco-Networking&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=Cisco-Networking&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Misty7555/HEART_DISEASE_PREDICTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=HEART_DISEASE_PREDICTION&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=HEART_DISEASE_PREDICTION&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Misty7555/CREDIT-RISK-PD-MODEL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=CREDIT-RISK-PD-MODEL&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=CREDIT-RISK-PD-MODEL&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
 
----
+### 📊 Project Highlights
 
-# 📊 Project Highlights
+* 🌐 **Cisco Networking Labs** — Enterprise-level Cisco Packet Tracer simulations including Routing, Switching, OSPF, EIGRP, ACL, NAT & WAN configurations
 
-### 🌐 Cisco Networking Labs
-- Enterprise-level Cisco Packet Tracer simulations
-- Routing & Switching configurations
-- OSPF, RIP & EIGRP implementations
-- NAT, PAT, ACL & WAN configurations
-- Subnetting & VLSM practical labs
+* 🧠 **Heart Disease Prediction** — ML model to predict patient risk using clinical data
 
-### 🧠 Heart Disease Prediction
-- Machine Learning model for health risk prediction
-- Data preprocessing & feature engineering
-- Classification model evaluation
-
-### 📈 Credit Risk Analysis
-- Probability of Default (PD) modeling
-- Large-scale financial dataset analysis
-- Risk analytics & data visualization
+* 📈 **Credit Risk Analysis** — Probability of default model on large-scale financial dataset (2.9M+ records)
 
 ---
 
-<!-- ========================= EXPERIENCE ========================= -->
+## 💼 Experience
 
-# 💼 Experience
+* 💻 **Software Development Intern – DeepSurge AI Tech Pvt. Ltd.**
 
-### 💻 Software Development Intern — DeepSurge AI Tech Pvt. Ltd.
-- Worked with CVAT.AI for computer vision datasets
-- Improved annotation quality for AI model training
-- Assisted in data preparation workflows
+  * Worked on computer vision datasets using CVAT.AI
+  * Improved data quality for model training
 
-### 🤖 AI/ML Internship
-- Solved real-world machine learning problems
-- Worked on predictive analytics concepts
+* 🤖 **AI/ML Internship**
 
-### ☁️ Data Engineering Internship
-- Exposure to AWS cloud services
-- Learned cloud-based workflow fundamentals
+  * Hands-on experience solving real-world ML problems
+
+* ☁️ **Data Engineering Internship**
+
+  * Exposure to AWS services and cloud-based workflows
 
 ---
 
-<!-- ========================= STATS ========================= -->
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Misty7555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misty7555&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Misty7555&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Misty7555&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misty7555&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- ========================= ACTIVITY GRAPH ========================= -->
-
-# 📈 Contribution Activity
+## 📈 Activity Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misty7555&theme=tokyo-night&hide_border=true"/>
@@ -197,36 +117,38 @@ Tools & Technologies:
 
 ---
 
-<!-- ========================= SNAKE ========================= -->
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Misty7555/Misty7555/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Misty7555/Misty7555/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- ========================= PROFILE VIEWS ========================= -->
+## 🤝 Connect
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Misty7555&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://github.com/Misty7555">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://img.shields.io/github/followers/Misty7555?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/adyabhardwaj08292b283">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img src="https://img.shields.io/github/stars/Misty7555?style=for-the-badge"/>
+<a href="mailto:adyabhardwaj12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </p>
 
 ---
 
-<!-- ========================= FOOTER ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Misty7555&style=flat-square&color=blueviolet"/>
 </p>
 
-<h3 align="center">
-⭐ Building Real-World Technical Skills Through Networking, Analytics & Security
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
