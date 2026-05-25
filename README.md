@@ -57,23 +57,46 @@
 
 ## 🚀 Key Projects
 
-<div align="center">
+<table>
+<tr>
 
+<td width="50%">
 <a href="https://github.com/Misty7555/Cisco-Networking">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=Cisco-Networking&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=Cisco-Networking&theme=github_dark&hide_border=true">
 </a>
+</td>
 
+<td width="50%">
 <a href="https://github.com/Misty7555/HEART_DISEASE_PREDICTION">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=HEART_DISEASE_PREDICTION&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=HEART_DISEASE_PREDICTION&theme=github_dark&hide_border=true">
 </a>
+</td>
 
-<br><br>
+</tr>
 
+<tr>
+
+<td width="50%">
 <a href="https://github.com/Misty7555/CREDIT-RISK-PD-MODEL">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=CREDIT-RISK-PD-MODEL&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Misty7555&repo=CREDIT-RISK-PD-MODEL&theme=github_dark&hide_border=true">
 </a>
+</td>
 
-</div>
+<td width="50%">
+
+### 🌐 Featured Networking Project
+
+- Cisco Packet Tracer Labs
+- OSPF, RIP & EIGRP
+- VLAN & ACL Configurations
+- NAT, PAT & DHCP
+- Subnetting & VLSM
+- Enterprise Networking Simulations
+
+</td>
+
+</tr>
+</table>
 
 ---
 
