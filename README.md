@@ -14,7 +14,7 @@
 
 ## 🧠 About
 
-* 🎓 B.Tech CSE @ KIIT University (CGPA: 8.5)
+* 🎓 B.Tech CSE @ KIIT University (CGPA: 8.73)
 * 🌐 Strong interest in **Computer Networking & Enterprise Infrastructure**
 * 📊 Specializing in **Data Analytics & Business Intelligence**
 * ⚡ Focused on building practical real-world technical projects
