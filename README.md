@@ -54,6 +54,7 @@
 </div>
 
 ---
+
 ## 🚀 Key Projects
 
 <table>
@@ -61,14 +62,40 @@
 
 <td width="33%" align="center">
 
-## 🌐 Cisco Networking
+## 🧠 ORQESTRA
 
-Enterprise-level Cisco Packet Tracer Labs
+AI-powered multi-agent platform designed for intelligent workflow orchestration and automation.
 
 ### Technologies
-`OSPF` `EIGRP` `RIP`
-`VLAN` `ACL` `NAT`
-`PAT` `DHCP` `VLSM`
+`Python`
+`AI/ML`
+`Multi-Agent`
+`RAG`
+
+<br>
+
+<a href="https://github.com/Misty7555/ORQESTRA">
+<img src="https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+## 🌐 Cisco Networking
+
+Comprehensive Cisco Packet Tracer laboratory implementations covering enterprise networking concepts and protocols.
+
+### Technologies
+`OSPF`
+`EIGRP`
+`RIP`
+`VLAN`
+`ACL`
+`NAT`
+`PAT`
+`DHCP`
+`VLSM`
 
 <br>
 
@@ -80,39 +107,19 @@ Enterprise-level Cisco Packet Tracer Labs
 
 <td width="33%" align="center">
 
-## 🧠 Heart Disease Prediction
+## 🛡️ HACK4IMPACT – Bug Busters
 
-Machine Learning prediction system using clinical datasets.
-
-### Technologies
-`Python`
-`Pandas`
-`NumPy`
-`Machine Learning`
-
-<br>
-
-<a href="https://github.com/Misty7555/HEART_DISEASE_PREDICTION">
-<img src="https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-## 📈 Credit Risk Analysis
-
-Probability of Default model on financial datasets.
+Hackathon project focused on developing a practical technology solution to address real-world challenges.
 
 ### Technologies
 `Python`
-`SQL`
-`Analytics`
-`Risk Modeling`
+`AI/ML`
+`Data`
+`Problem Solving`
 
 <br>
 
-<a href="https://github.com/Misty7555/CREDIT-RISK-PD-MODEL">
+<a href="https://github.com/Misty7555/HACK4IMPACTTRACK2-Bug-Busters-">
 <img src="https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -125,11 +132,12 @@ Probability of Default model on financial datasets.
 
 ### 📊 Project Highlights
 
-- 🌐 **Cisco Networking Labs** — Enterprise-level Cisco Packet Tracer simulations including Routing, Switching, OSPF, EIGRP, ACL, NAT & WAN configurations
+- 🧠 **ORQESTRA** — AI-powered multi-agent platform designed for intelligent workflow orchestration and automation.
 
-- 🧠 **Heart Disease Prediction** — ML model to predict patient risk using clinical data
+- 🌐 **Cisco Networking Labs** — Comprehensive Cisco Packet Tracer implementations covering Routing, Switching, OSPF, EIGRP, RIP, ACL, NAT, DHCP, VLANs, VLSM, and enterprise networking concepts.
 
-- 📈 **Credit Risk Analysis** — Probability of default model on large-scale financial dataset (2.9M+ records)
+- 🛡️ **HACK4IMPACT – Bug Busters** — Hackathon project focused on developing a practical technology solution to address real-world challenges.
+
 ---
 
 ## 💼 Experience
